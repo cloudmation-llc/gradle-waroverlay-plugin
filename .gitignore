@@ -3,4 +3,7 @@
 classes
 .idea
 .gradle
+.project
+.settings
+.vscode
 build
