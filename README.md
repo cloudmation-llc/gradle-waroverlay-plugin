@@ -1,3 +1,7 @@
+# Maintenance Note
+
+This repository is a fork of the original exclusively for the purpose of retaining access to the plugin without Bintray to support an existing client project. **This plugin is not maintained.**
+
 # Gradle WAR overlay plugin
 
 A plugin for gradle to provide functionality similar to the war overlay function in maven. This plugin is initially
