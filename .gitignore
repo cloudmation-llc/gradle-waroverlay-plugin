@@ -7,3 +7,4 @@ classes
 .settings
 .vscode
 build
+.DS_Store*
